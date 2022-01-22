@@ -1,0 +1,1 @@
+export const date = new Date().toLocaleDateString('ru-RU', {hour: 'numeric', minute: 'numeric'});
